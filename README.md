@@ -1,16 +1,7 @@
-# maskcheck
+# MASK CHECK
 
-A new Flutter application.
+A geo-fencing and mask checking flutter application
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+During the initial times of COVID'19 around March 2020, TN government tried of making this app, this app will basically create a geo-fence and if you move out of the area you will recieve a notification stating you are exceeding the allowed limit. You have to quickly open the app and take a selfie. This app uses the TFLite package of flutter which determines whether the person in the selfie is wearing a mask or not and the confidence level.
