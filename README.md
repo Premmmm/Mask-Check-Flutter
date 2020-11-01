@@ -8,4 +8,4 @@ During the initial times of COVID'19 around March 2020, TN government tried of m
 
 
 
-![alt text](https://github.com/Premmmm/COVID-19-Tracker-Flutter/blob/master/screenshots/Local%20Data.png.jpg?raw=true)
+![alt text]https://github.com/Premmmm/Mask-Check-Flutter/blob/master/images/Mask%20Check%20App.jpg?raw=true)
