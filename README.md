@@ -7,7 +7,8 @@ During the initial times of COVID'19 around March 2020, TN government tried of m
 2) TfLite
 
 
-### App UI
+## App UI
+
 <img src="https://github.com/Premmmm/Mask-Check-Flutter/blob/master/images/Mask%20Check%20App.jpg" align="left" height="535" width="270" />
 <img src="https://github.com/Premmmm/Mask-Check-Flutter/blob/master/images/maskon.jpg" align="left" height="535" width="270" />
 
